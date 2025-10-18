@@ -1,5 +1,5 @@
 
-### Brief description of the algorithm
+# Brief description of the algorithm
 
 
 
