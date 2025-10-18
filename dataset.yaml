@@ -1,0 +1,9 @@
+# dataset.yaml
+path: /content/drive/MyDrive/Colab Notebooks/dataset
+train: images/train
+# val: images/val  # Skip validation for now (small dataset)
+names:
+  0: attacker
+  1: defender
+  2: goalkeeper
+  3: ball
