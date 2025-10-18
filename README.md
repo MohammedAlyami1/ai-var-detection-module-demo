@@ -1,6 +1,5 @@
 
-![Uploading Offside.png…]()
-
+### Brief description of the algorithm
 
 
 
