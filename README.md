@@ -12,6 +12,7 @@ I left some of clips down there
 
 ![](Module/detect/train/weights/Offside3.png)
 
+# Certificate for participating in SCAI's hackathone
 
 
 # Dataset & Models
